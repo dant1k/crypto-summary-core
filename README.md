@@ -1,3 +1,8 @@
+<p align="right">
+  <img src="https://github.com/dant1k/crypto-summary-core/actions/workflows/ci.yml/badge.svg" alt="CI" />
+  <img src="https://github.com/dant1k/crypto-summary-core/actions/workflows/codeql.yml/badge.svg" alt="CodeQL" />
+</p>
+
 
 <h1 align="center">💬 crypto-summary-core</h1> <p align="center"> <b>Core text-analysis library for crypto chat insights</b><br> <a href="https://github.com/dant1k/crypto-summary-core/stargazers"> <img src="https://img.shields.io/github/stars/dant1k/crypto-summary-core?style=for-the-badge&color=yellow"/> </a> <a href="https://github.com/dant1k"> <img src="https://img.shields.io/badge/Made%20by-dant1k-8A2BE2?style=for-the-badge"/> </a> </p>
 �� What it does
